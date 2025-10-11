@@ -1,13 +1,3 @@
-<div align="center">
-  <br />
-      <img src="public/readme/hero.webp" alt="Project Banner">
-    </a>
-  <br />
-
-  <h3 align="center">Apple Mabook Website</h3>
-</div>
-
-
 ## <a name="quick-start">🤸 Quick Start</a>
 
 Follow these steps to set up the project locally on your machine.
