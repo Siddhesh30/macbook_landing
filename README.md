@@ -34,4 +34,4 @@ npm run dev
 
 Open [http://localhost:5173](http://localhost:5173) in your browser to view the project.
 
-See the demo -> [Landing Page](https://macbook-m4.netlify.app))
+See the demo -> [Landing Page](https://macbook-m4.netlify.app)
